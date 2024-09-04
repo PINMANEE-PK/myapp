@@ -2,7 +2,12 @@
 module.exports = {
   content: ['./templates/**/*.html'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily :{
+        angsana:["Angsana New"],
+        sriracha:["Sriracha"]
+      }
+    },
   },
   plugins: [],
 }
