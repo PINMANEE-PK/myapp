@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       fontFamily :{
         angsana:["Angsana New"],
-        sriracha:["Sriracha"]
+        sriracha:["Sriracha"],
+        itim:["Itim"]
       }
     },
   },
